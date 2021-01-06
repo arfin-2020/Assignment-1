@@ -94,11 +94,12 @@ section {
 
 .last-bg {
     background-image: url("Group_33094_1.png");
-    border: 2px solid red;
+    border: 2px solid rgb(54, 50, 50);
+    box-shadow: 10px 10px 40px rgb(131, 125, 123);
     background-position: center;
     background-repeat: no-repeat;
     background-size: 50%;
-    height: 300px;
+    height: 500px;
     padding-left: 100px;
     margin: 50px 50px;
 }
