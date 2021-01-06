@@ -61,7 +61,6 @@ section {
     border-radius: 6px;
     color: white;
     font-weight: bold;
-    border: 2px solid red;
 }
 
 .last-section {
@@ -121,7 +120,7 @@ section {
     margin-top: 190px;
 }
 
-footer .h1-h2 {
+.footer1 .h1-h2 {
     text-align: center;
 }
 
@@ -133,10 +132,19 @@ footer .h1-h2 {
 
 .icon {
     height: 200px;
-    margin-left: 850px;
+    margin-left: 870px;
 }
 
 .icon-img {
     width: 30px;
     margin-left: 10px;
+}
+
+.footer2 p {
+    background-color: rgb(29, 28, 27);
+    font-size: 12px;
+    text-align: center;
+    height: 80px;
+    color: white;
+    padding-top: 50px;
 }
